@@ -4,6 +4,7 @@
 <div align="center">
 <img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/images/Metro-Madness-Preview.png" align="center" style="width: 80%" />
 </div>
+<br>
 
 In Metro Madness, Nyeste (your character) needs to reach to the job office because he has an important meeting and lives differents situations in the way on it. These situations are decisions in which you have to decide if you want to help the people involved in them (and losing time to reach to the job office) or not helping them or even creating a worse scenario for them to don't lose more time (and starting to regret about it). If your character lose too much time, it won't reach the office in time, and if it has so much regrets about all the situations he lived, he won't be focused on the meeting and he will lose his job. So, you need to find a balance to reach the job in time and with clear conscience.
 
