@@ -14,7 +14,7 @@ The message of this game focus on the fact that we are living in a society that 
 - Q or E: take a decision on a situation
 
 ## Team
-Óscar Delgado: https://www.linkedin.com/in/óscar-delgado-rueda-579834228/
-Cristina Mendoza: https://www.linkedin.com/in/cristina-mendoza-colom-43497423b/
-Víctor Alcaide: https://www.linkedin.com/in/víctor-alcaide-rodríguez-272895253/
-Èric Casanovas: https://www.linkedin.com/in/èric-casanovas-pérez-033a6723a/
+- Óscar Delgado: https://www.linkedin.com/in/óscar-delgado-rueda-579834228/
+- Cristina Mendoza: https://www.linkedin.com/in/cristina-mendoza-colom-43497423b/
+- Víctor Alcaide: https://www.linkedin.com/in/víctor-alcaide-rodríguez-272895253/
+- Èric Casanovas: https://www.linkedin.com/in/èric-casanovas-pérez-033a6723a/
