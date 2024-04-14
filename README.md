@@ -18,6 +18,9 @@ The message of this game focus on the fact that we are living in a society that 
 - N: watch the mobile phone and accelerate time
 - Q or E: take a decision on a situation
 
+## Design document
+ https://github.com/oscardelgado02/Metro-Madness/blob/main/Documento%20de%20dise%C3%B1o%20(Metro%20Madness).pdf
+
 ## Team
 - Óscar Delgado: https://www.linkedin.com/in/óscar-delgado-rueda-579834228/
 - Cristina Mendoza: https://www.linkedin.com/in/cristina-mendoza-colom-43497423b/
