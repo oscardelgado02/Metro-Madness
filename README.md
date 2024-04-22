@@ -31,7 +31,7 @@ The message of this game, using comedy, focus on the fact that we are living in 
 
 Shield: [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/oscardelgado02/Metro-Madness">Metro Madness</a> © 2022 by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/oscardelgado02">Óscar Delgado Rueda, Cristina Mendoza, Víctor Alcaide Rodríguez, Èric Casanovas Pérez</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a></p>
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/oscardelgado02/Metro-Madness">Metro Madness</a> © 2024 by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/oscardelgado02">Óscar Delgado Rueda, Cristina Mendoza, Víctor Alcaide Rodríguez, Èric Casanovas Pérez</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a></p>
 
 [![CC BY-NC-ND 4.0][cc-by-nc-nd-image]][cc-by-nc-nd]
 
